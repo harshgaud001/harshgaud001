@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Harsh+Gaud+.+;+Good+to+see+you+!!)](https://git.io/typing-svg)
-<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40"><img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="40">
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/emojis/553085034068705285.gif?v=1"/>
+
 <hr></hr>
 <h3 align="center">A Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgaud001&label=Profile%20views&color=0e75b6&style=flat" alt="harshgaud001" /> </p>
 
-- 🌱 I’m currently learning **Odoo**
-
-- 📫 How to reach me **k.harsh.g99@gmail.com**
+- 🔭 &nbsp; Learning Web Development.
+- 🌱 &nbsp; Exploring new technologies.  
 
 <p align="left">
 </p>
